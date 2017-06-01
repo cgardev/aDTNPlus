@@ -4,7 +4,7 @@
 # Instalación
 Para instalar la plataforma en su ultima versión hay que realizar los siguientes pasos:
 ```
-git clone https://github.com/SeNDA-UAB/aDTN-platform.git
+git clone https://github.com/SeNDA-UAB/aDTNPlus.git
 cd aDTN-platform
 git checkout next
 cmake .
